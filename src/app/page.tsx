@@ -8,7 +8,9 @@ import Upgrade from "@/components/Home/upgrade";
 import Perks from "@/components/Home/perks";
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "CrypGo",
+  title: "Buy and Sell Cryptocurrency | CrypGo",
+  description:
+    "Explore CrypGo's crypto platform for buying and selling cryptocurrency, with tools designed to make digital assets easier to access.",
 };
 
 export default function Home() {
